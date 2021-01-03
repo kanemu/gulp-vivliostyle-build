@@ -1,0 +1,22 @@
+{
+  "name": "gulp-vivliostyle-build",
+  "version": "0.1.4",
+  "description": "vivliostyle-cli plugin for Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "vivliostyle"
+  ],
+  "author": "kanemu",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "@vivliostyle/cli": "^2.1.2",
+    "plugin-error": "^1.0.1",
+    "replace-ext": "^2.0.0",
+    "through2": "^4.0.2",
+    "vinyl": "^2.2.1"
+  }
+}
